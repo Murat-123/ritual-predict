@@ -1,0 +1,19 @@
+# Dependencies and package-manager cache
+node_modules/
+.pnpm-store/
+
+# Frontend output
+web/dist/
+
+# Environment files and local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+keystore/
+secrets/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
