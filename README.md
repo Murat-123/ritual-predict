@@ -1,5 +1,5 @@
 # Ritual Predict
-![Ritual Predict](./ritual-predict-preview.png)
+![Ritual Predict](/ritual-predict-preview.png)
 > Autonomous prediction markets powered by Ritual.
 
 Ritual Predict explores a self-resolving binary prediction market architecture built around Ritual-native infrastructure. Participants take YES or NO positions on a question; after the betting window closes, the contract obtains and processes configured external data through Ritual, then settles the market deterministically.
